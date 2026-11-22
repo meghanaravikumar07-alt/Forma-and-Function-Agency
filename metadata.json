@@ -1,0 +1,6 @@
+{
+  "name": "Form and Function",
+  "description": "Local business web design and local SEO agency with service booking, portfolio showcase, WhatsApp chat integration, Google Pay checkout, and client transaction history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
